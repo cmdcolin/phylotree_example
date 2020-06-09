@@ -6903,6 +6903,11 @@ neo-async@^2.5.0, neo-async@^2.6.1:
   resolved "https://registry.yarnpkg.com/neo-async/-/neo-async-2.6.1.tgz#ac27ada66167fa8849a6addd837f6b189ad2081c"
   integrity sha512-iyam8fBuCUpWeKPGpaNMetEocMt364qkCsfL9JuhjXX6dRnguRVOfk2GZaDpPjcOKiiXCPINZC1GczQ7iTq3Zw==
 
+newick-js@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/newick-js/-/newick-js-1.1.1.tgz#c2c6bf56c1d2232ce9a6e4170576422ddcd5d2fb"
+  integrity sha512-RaSmZTOtyMklxxu1BSR2Gr6LU+XGXvK+Oc5WVSAUCe7YO5XtkWZRN9qbXDnxtkfxGmHa5wNrC/DSMAeiVFTruA==
+
 next-tick@~1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/next-tick/-/next-tick-1.0.0.tgz#ca86d1fe8828169b0120208e3dc8424b9db8342c"

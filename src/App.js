@@ -1,4 +1,5 @@
 import React from "react";
+import {parse} from 'newick-js'
 import logo from "./logo.svg";
 import "./App.css";
 const rootTree = {
@@ -29,6 +30,11 @@ function Tree(props) {
 }
 
 function App() {
+
+  const result = parse("(Pongo:15.76,(Gorilla:9.06,(Pan:6.65,Homo:6.65):2.41)Homininae:6.70)Hominidae:4.43;");
+
+  console.log(result)
+
   return (
     <div className="App">
       <Tree tree={rootTree} />
