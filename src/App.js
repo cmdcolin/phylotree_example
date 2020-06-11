@@ -37,7 +37,6 @@ function App() {
 
   return (
     <div className="App">
-      <Tree tree={rootTree} />
     </div>
   );
 }
